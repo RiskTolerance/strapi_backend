@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_testing_component_tests",
+  "info": {
+    "displayName": "Component Test",
+    "icon": "bell",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "accordianValues": {
+      "displayName": "AccordianValues",
+      "type": "component",
+      "repeatable": true,
+      "component": "testing.accordian-values"
+    }
+  }
+}

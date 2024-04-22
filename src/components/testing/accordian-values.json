@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_testing_accordian_values",
+  "info": {
+    "displayName": "AccordianValues",
+    "icon": "cube",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "handle": {
+      "type": "string"
+    },
+    "handleContent": {
+      "type": "blocks"
+    }
+  }
+}
